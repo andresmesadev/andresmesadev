@@ -4,6 +4,7 @@
 
 ### Web Developer | Soluciones web a medida para impulsar tu presencia digital.
 </div>
+
 ---
 
 ## 👨‍💻 Perfil profesional
@@ -43,6 +44,7 @@ Actualmente, soy fundador de **Nexo Web**, donde desarrollo soluciones web como 
 ![Editores](https://skillicons.dev/icons?i=vscode,github,git,postman&perline=4)
 
 </div>
+
 ---
 
 ## 🌐 Proyectos y experiencia destacada
@@ -75,6 +77,7 @@ Proyecto de tienda tipo supermercado online desarrollado desde cero.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escribirme-green?style=for-the-badge&logo=whatsapp)](https://wa.me/573053721204)
 
 </div>
+
 ---
 
 ## 🎯 Objetivo
