@@ -38,7 +38,7 @@ Actualmente, soy fundador de **Nexo Web**, donde desarrollo soluciones web como 
 ![Lenguajes](https://skillicons.dev/icons?i=html,css,js&perline=3)
 
 ### ⚙️ Frameworks 
-![Frameworks](https://skillicons.dev/icons?i=react,wordpress,sass,vite,mysql&perline=5)
+![Frameworks](https://skillicons.dev/icons?i=react,wordpress,sass,vite,nodejs,tailwind,mui,mysql&perline=4)
 
 ### 🛠️ Herramientas
 ![Editores](https://skillicons.dev/icons?i=vscode,github,git,postman&perline=4)
