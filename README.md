@@ -54,7 +54,8 @@ Tienda virtual en desarrollo enfocada en la venta de productos de ferretería.
 
 - Desarrollo completo desde cero  
 - Diseño enfocado en conversión y experiencia de usuario  
-- Estructura optimizada para rendimiento y navegación  
+- Estructura optimizada para rendimiento y navegación
+
 🌐 [Ver sitio web](https://ferrerquintana.com/)
 
 ---
@@ -65,6 +66,7 @@ Proyecto de tienda tipo supermercado online desarrollado desde cero.
 - Desarrollo completo de la estructura ecommerce  
 - Organización y gestión de catálogo de productos  
 - Enfoque en escalabilidad y crecimiento del proyecto
+  
 🌐 [Ver sitio web](https://megamercado.com.co/)
 
 ---
