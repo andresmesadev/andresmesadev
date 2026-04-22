@@ -23,11 +23,11 @@ Actualmente, soy fundador de **Nexo Web**, donde desarrollo soluciones web como 
 
 ## 💼 Servicios
 
- • Páginas web
- • Landing pages
- • Tiendas online (E-commerce)
- • Optimización web
- • Soporte y mantenimiento
+- Páginas web
+- Landing pages
+- Tiendas online (E-commerce)
+- Optimización web
+- Soporte y mantenimiento
  
 ---
 
