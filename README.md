@@ -1,7 +1,8 @@
+<div align="center">
 # Hola, soy Andrés Felípe Mesa Velásquez 👋
 
 ### Web Developer | Soluciones web a medida para impulsar tu presencia digital.
-
+</div>
 ---
 
 ## 👨‍💻 Perfil profesional
@@ -29,7 +30,7 @@ Actualmente, soy fundador de **Nexo Web**, donde desarrollo soluciones web como 
 ---
 
 ## ⚙️ Stack y herramientas
-
+<div align="center">
 ### 🧠 Lenguajes
 ![Lenguajes](https://skillicons.dev/icons?i=html,css,js&perline=3)
 
@@ -37,8 +38,8 @@ Actualmente, soy fundador de **Nexo Web**, donde desarrollo soluciones web como 
 ![Frameworks](https://skillicons.dev/icons?i=react,wordpress,sass,vite,mysql&perline=5)
 
 ### 🛠️ Editores
-![Editores](https://skillicons.dev/icons?i=vscode,github,postman&perline=3)
-
+![Editores](https://skillicons.dev/icons?i=vscode,github,git,postman&perline=4)
+</div>
 ---
 
 ## 🌐 Proyectos y experiencia destacada
