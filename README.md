@@ -9,15 +9,16 @@
 
 ## 👨‍💻 Perfil profesional
 
-Soy Web Developer enfocado en el desarrollo de páginas web modernas, rápidas y adaptadas a las necesidades de cada proyecto.
+Construyo experiencias digitales modernas enfocadas en diseño, rendimiento y funcionalidad.
 
-Ayudo a personas y empresas a construir una presencia digital sólida mediante sitios web bien estructurados, optimizados y diseñados para ofrecer una excelente experiencia de usuario.
+Soy Web Developer y fundador de Nexo Web, donde desarrollo páginas web, landing pages, ecommerce y soluciones digitales para negocios que buscan una presencia online más sólida, profesional y efectiva.
 
-Trabajo con tecnologías como HTML, CSS, JavaScript, React y WordPress, desarrollando interfaces responsivas, integración de funcionalidades y soluciones personalizadas.
+Me enfoco en crear productos web modernos, rápidos y bien estructurados, combinando desarrollo frontend y backend, experiencia de usuario y una identidad visual cuidada para construir soluciones funcionales y escalables.
 
-Además, gestiono todo el proceso digital: desde la configuración de hosting y dominios hasta la implementación completa del sitio web.
+Además, gestiono procesos completos como hosting, dominios, optimización, despliegue y automatización de proyectos digitales.
 
-Actualmente, soy fundador de **Nexo Web**, donde desarrollo soluciones web como ecommerce, páginas corporativas y landing pages.
+Actualmente continúo fortaleciendo mis habilidades en desarrollo web moderno, automatización e integración de herramientas impulsadas por IA.
+
 
 ---
 
